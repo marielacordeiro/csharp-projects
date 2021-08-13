@@ -14,7 +14,6 @@ namespace Laboratorio6
             {
             Console.WriteLine(lista[i].Estado);
             }
-
         }
     }
 }
