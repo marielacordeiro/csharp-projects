@@ -1,0 +1,16 @@
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.csproj.AssemblyReference.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.AssemblyInfoInputs.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.AssemblyInfo.cs
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.csproj.CoreCompileInputs.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.exe
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.deps.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.runtimeconfig.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.runtimeconfig.dev.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\ref\Laboratorio7.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\bin\Debug\net5.0\Laboratorio7.pdb
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\ref\Laboratorio7.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.pdb
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio7\obj\Debug\net5.0\Laboratorio7.genruntimeconfig.cache
