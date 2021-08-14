@@ -1,0 +1,16 @@
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.exe
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.deps.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.runtimeconfig.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.runtimeconfig.dev.json
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\ref\Laboratorio9.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\bin\Debug\net5.0\Laboratorio9.pdb
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.csproj.AssemblyReference.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfoInputs.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfo.cs
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.csproj.CoreCompileInputs.cache
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\ref\Laboratorio9.dll
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.pdb
+C:\Users\Mariela_Pontes_Corde\Documents\VsCodeLabs\Laboratorio9\obj\Debug\net5.0\Laboratorio9.genruntimeconfig.cache
