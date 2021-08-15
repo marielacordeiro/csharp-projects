@@ -71,6 +71,58 @@ namespace Laboratorio10
             Console.WriteLine(older);
             var youngestSingle = pessoas.Where(p => !p.Casada).OrderBy((pessoa) => pessoa.DataNascimento).Last();
             Console.WriteLine(youngestSingle);
+
+
+            List<Pet> pets =
+                new List<Pet>{ new Pet { Name="Barley", Age=8.0 },
+                            new Pet { Name="Boots", Age=4.0 },
+                            new Pet { Name="Whiskers", Age=1.0 },
+                            new Pet { Name="Daisy", Age=4.0 } };
+
+            // Group the pets using Age as the key value
+            // and selecting only the pet's Name for each value.
+            IEnumerable<IGrouping<double, string>> query =
+                pets.GroupBy(pet => pet.Age, pet => pet.Name);
+
+            // Iterate over each IGrouping in the collection.
+            foreach (IGrouping<double, string> petGroup in query)
+            {
+                // Print the key value of the IGrouping.
+                Console.WriteLine(petGroup.Key);
+                // Iterate over each value in the
+                // IGrouping and print the value.
+                foreach (string name in petGroup)
+                    Console.WriteLine("  {0}", name);
+            }
+
+            List<Pet> petsList =
+                new List<Pet>{ new Pet { Name="Barley", Age=8.3 },
+                            new Pet { Name="Boots", Age=4.9 },
+                            new Pet { Name="Whiskers", Age=1.5 },
+                            new Pet { Name="Daisy", Age=4.3 } };
+
+            // Group Pet objects by the Math.Floor of their age.
+            // Then project an anonymous type from each group
+            // that consists of the key, the count of the group's
+            // elements, and the minimum and maximum age in the group.
+            var query2 = petsList.GroupBy(
+                pet => Math.Floor(pet.Age),
+                (age, pets) => new
+                {
+                    Key = age,
+                    Count = pets.Count(),
+                    Min = pets.Min(pet => pet.Age),
+                    Max = pets.Max(pet => pet.Age)
+                });
+
+            // Iterate over each anonymous type.
+            foreach (var result in query2)
+            {
+                Console.WriteLine("\nAge group: " + result.Key);
+                Console.WriteLine("Number of pets in this age group: " + result.Count);
+                Console.WriteLine("Minimum age: " + result.Min);
+                Console.WriteLine("Maximum age: " + result.Max);
+            }
         }
     }
 }
